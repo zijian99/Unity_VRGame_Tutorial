@@ -2,4 +2,7 @@
 Tutorial of Basic VR Game Interaction and Canvas etc.
 
 Learnt from this video:<br>
-https://www.youtube.com/watch?v=TJ8yk5vVwI0
+XR Origin<br>
+https://www.youtube.com/watch?v=TJ8yk5vVwI0<br>
+SteamVR Plugin:
+https://www.youtube.com/watch?v=xVllqnp9IVY
